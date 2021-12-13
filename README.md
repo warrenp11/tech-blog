@@ -1,9 +1,5 @@
 # tech-blog
 
-* [] Post model
-    * [] Create Post model
-    * [] Create Post associations to User model
-    * [] Create Post routes
 * [] Comment Model
 
 

@@ -1,6 +1,6 @@
 # tech-blog
 
---[] Create Login Page (14.2.3)
+[]
 
 
 GIVEN a CMS-style blog site
